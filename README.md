@@ -13,6 +13,10 @@ https://www.eclipse.org/thym/
 
 http://tools.jboss.org/
 
+## Android Virtual Device / Genymotion
+
+http://www.genymotion.com/
+
 ## Using Native Features 
 
 ### Camera demo 
@@ -94,6 +98,14 @@ http://ngcordova.com/
 
 https://github.com/sebastienblanc/javaonesearch
 
+## forge
+
+http://forge.jboss.org/
+
+## OpenShift
+
+https://www.openshift.com/
+
 
 ## UnifiedPush Server
 
@@ -112,7 +124,7 @@ https://github.com/lfryc/keycloak/tree/ionic-styling/
 ## Demo Apps
 
 Client : https://github.com/sebastienblanc/ionic-keycloak-client
-Backend : 
+Backend :https://github.com/sebastienblanc/awesome 
 
 ## Other Resource 
 
