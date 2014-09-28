@@ -3,12 +3,15 @@ Tutorial Resources
 
 # Resources
 ## Cordova
-cordova.org
+
+http://cordova.apache.org/
+
 ## Eclipse Thym 
 
 https://www.eclipse.org/thym/
 
 ## JBoss Tools
+
 http://tools.jboss.org/
 
 ## Using Native Features 
