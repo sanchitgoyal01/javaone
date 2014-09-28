@@ -91,8 +91,6 @@ http://ionicframework.com/
 
 http://codepen.io/ionic/public-list/
 
-twitterSearch showcase
-
 http://ngcordova.com/
 
 https://github.com/sebastienblanc/javaonesearch
@@ -100,7 +98,7 @@ https://github.com/sebastienblanc/javaonesearch
 
 ## UnifiedPush Server
 
-aerogear.org/push
+http://aerogear.org/push/
 
 https://github.com/aerogear/aerogear-push-helloworld
 
@@ -108,11 +106,19 @@ https://github.com/aerogear/aerogear-push-quickstarts
 
 ## Keycloak
 
-keycloak.org
+http://keycloak.jboss.org/
 
 https://github.com/lfryc/keycloak/tree/ionic-styling/
 
 ## Other Resource 
+
+AeroGear IRC : #aerogear
+
+AeroGear ML : aerogear-dev@lists.jboss.org aerogear-user@lists.jboss.org
+
+My Twitter handle : @sebi2706
+
+
 
 
 
